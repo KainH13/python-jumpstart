@@ -1,0 +1,5 @@
+Some words to search
+We need to search the words
+search search search
+that's what this program is supposed to do
+Search!
